@@ -6,6 +6,6 @@
 - [x] Give Verlod, Yaru & Yelern their proper Normal Maps
 - [ ] Create regular Terrain Textures for what Verlod, Yaru & Yelern need
 - [ ] Create Parallax Continued Terrain & Scaled Textures for Verlod, Yelern & Yaru
-- [ ] Add Axial Tilt & System Plane stuff into the settings config
+- [x] Add Axial Tilt & System Plane stuff into the settings config
 
 ---
