@@ -3,7 +3,7 @@
 ![Latest Commit](https://img.shields.io/github/last-commit/TheFiveEchoes/TheFiveEchoes/main.svg)
 
 [![Discord](https://github.com/TheFiveEchoes/TheFiveEchoes/blob/main/ImageAssets/Discord.png?raw=true)](https://discord.gg/57w8HjEQyp)
-[![Forum Page](https://github.com/TheFiveEchoes/TheFiveEchoes/blob/main/ImageAssets/ForumPage.png?raw=true)]([![Discord](https://github.com/TheFiveEchoes/TheFiveEchoes/blob/main/ImageAssets/Discord.png?raw=true)](https://discord.gg/57w8HjEQyp))
+[![Forum Page](https://github.com/TheFiveEchoes/TheFiveEchoes/blob/main/ImageAssets/ForumPage.png?raw=true)](https://forum.kerbalspaceprogram.com/topic/231940-ksp-112x-the-five-echoes-a-system-replacer-interstellar-planet-pack-beta-1version-05-backyard-bananza/)
 [![Download](https://github.com/TheFiveEchoes/TheFiveEchoes/blob/main/ImageAssets/Download.png?raw=true)](https://github.com/TheFiveEchoes/TheFiveEchoes/releases)
 
 # The Five Echoes
