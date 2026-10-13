@@ -3,6 +3,8 @@
 ![Latest Commit](https://img.shields.io/github/last-commit/TheFiveEchoes/TheFiveEchoes/main.svg)
 
 [![Discord](https://github.com/TheFiveEchoes/TheFiveEchoes/blob/main/ImageAssets/Discord.png?raw=true)](https://discord.gg/57w8HjEQyp)
+[![Forum Page](https://github.com/TheFiveEchoes/TheFiveEchoes/blob/main/ImageAssets/ForumPage.png?raw=true)]([![Discord](https://github.com/TheFiveEchoes/TheFiveEchoes/blob/main/ImageAssets/Discord.png?raw=true)](https://discord.gg/57w8HjEQyp))
+[![Download](https://github.com/TheFiveEchoes/TheFiveEchoes/blob/main/ImageAssets/Download.png?raw=true)](https://github.com/TheFiveEchoes/TheFiveEchoes/releases)
 
 # The Five Echoes
 
@@ -53,7 +55,7 @@
 
 # Mod Settings
 
-**In order to access and modify the mod's settings, go into the GameData folder of the KSP install you installed _The Five Echoes_ on and open `TheFiveEchoes/TheFiveEchoesSettings.cfg` in a text editor of your choice
+**In order to access and modify the mod's settings, go into the GameData folder of the KSP install you installed _The Five Echoes_ on and open `TheFiveEchoes/TheFiveEchoesSettings.cfg` in a text editor of your choice.**
 
 The following settings can be modified:
 - `SystemScale`: Currently not yet implemented, this will allow for rescaling the system. `3` is for Real Scale (default), `2` is for Quarter Scale & `1` is for Stock Scale.
