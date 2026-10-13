@@ -4,8 +4,8 @@
 - [x] Give Verlod's Rings a new texture
 - [x] Make Height- & Colormaps for Yelern
 - [x] Give Verlod, Yaru & Yelern their proper Normal Maps
-- [ ] Create regular Terrain Textures for what Verlod, Yaru & Yelern need
-- [ ] Create Parallax Continued Terrain & Scaled Textures for Verlod, Yelern & Yaru
+- [x] Create regular Terrain Textures for what Verlod, Yaru & Yelern need
+- [x] Create Parallax Continued Terrain & Scaled Textures for Verlod, Yelern & Yaru
 - [x] Add Axial Tilt & System Plane stuff into the settings config
 
 ---
