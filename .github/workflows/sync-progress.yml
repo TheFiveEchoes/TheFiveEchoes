@@ -1,0 +1,32 @@
+name: Sync Progress.md to Dev Repo
+
+on:
+  push:
+    paths:
+      - 'Progress.md'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main Repo
+        uses: actions/checkout@v4
+
+      - name: Push Progress.md to Dev Repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Clone the dev repository using the secret token
+          git clone https://x-access-token:${{ secrets.SYNC_TOKEN }}@://github.com dev-repo
+          
+          cp Progress.md dev-repo/Progress.md
+          
+          cd dev-repo
+          if [ -n "$(git status --porcelain)" ]; then
+            git add Progress.md
+            git commit -m "Auto-sync: Progress.md updated from Main environment"
+            git push origin main
+          else
+            echo "No changes to sync."
+          fi
