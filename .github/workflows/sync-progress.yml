@@ -18,7 +18,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Clone the dev repository using the secret token
-          git clone https://x-access-token:${{ secrets.SYNC_TOKEN }}@://github.com dev-repo
+          git clone https://x-access-token:${{ secrets.SYNC_TOKEN }}@github.com dev-repo
           
           cp Progress.md dev-repo/Progress.md
           
