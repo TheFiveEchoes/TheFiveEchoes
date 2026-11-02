@@ -1,4 +1,4 @@
-### Checklist for Public Beta 1 (internal version 0.5.0 - Backyard Bananza)
+### Checklist for Major Public Beta 1 (internal version 0.5.0 - Backyard Bananza)
 - [x] Adjust Yaru's terrain and add Voronoi Craters
 - [x] Finish up Verlod's Map Decals
 - [x] Give Verlod's Rings a new texture
@@ -10,7 +10,16 @@
 
 ---
 
-### Checklist for Public Beta 2 (internal version 0.6.0 - Extraplanetary Exploration)
+### Checklist for Patch 0.5.1 - Prime Patching
+- [ ] Update sunflare textures and curves
+- [ ] Update ambient occlusion to be darker at night
+- [ ] Update Master Plugin as a test for future installation functions
+- [ ] Create City Lights for Verlod
+- [x] Update Parallax Terrain displacement values
+
+---
+
+### Checklist for Major Public Beta 2 (internal version 0.6.0 - Extraplanetary Exploration)
 - [ ] Create biome maps for the following already implemented celestial objects:
     - [ ] Verlod
     - [x] Yaru
