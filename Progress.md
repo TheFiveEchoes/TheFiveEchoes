@@ -13,7 +13,6 @@
 ### Checklist for Patch 0.5.1 - Prime Patching
 - [ ] Update sunflare textures and curves
 - [ ] Update ambient occlusion to be darker at night
-- [ ] Update Master Plugin as a test for future installation functions
 - [ ] Create City Lights for Verlod
 - [x] Update Parallax Terrain displacement values
 
@@ -26,7 +25,8 @@
     - [ ] Yelern
 - [ ] Create all necessary base textures for the following celestial bodies:
     - [ ] Osourtik
-    - [ ] Reatu
+    - [x] Reatu
+    - [x] Mavurya
     - [ ] Fuandro
     - [ ] Elota
     - [ ] Selnot
@@ -39,6 +39,7 @@
     - [ ] Yaru
     - [ ] Yelern
     - [ ] Reatu
+    - [ ] Mavurya
     - [ ] Fuandro
     - [ ] Elota
     - [ ] Selnot
@@ -53,6 +54,7 @@
     - [ ] Osourtik
     - [ ] Yaru
     - [ ] Yelern
+    - [ ] Mavurya
     - [ ] Fuandro
     - [ ] Elota
     - [ ] Selnot
