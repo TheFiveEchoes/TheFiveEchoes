@@ -18,7 +18,7 @@
 
 # Installation
 
-**Note:** _The Five Echoes_ will be added to CKAN once Version 1.0 releases. Until then the mod will have to be installed manually.
+_The Five Echoes_ is available via CKAN and installation via CKAN is recommended. If you wish to install the mod manually please follow these steps:
 
 1. Install the following dependencies:
     - [**Kopernicus**](https://github.com/Kopernicus/Kopernicus) **and its dependencies**: Used to make custom celestial objects possible.
@@ -52,6 +52,7 @@
 - [**Singularity**](https://github.com/LGhassen/Singularity): For providing gravitational lensing effects for wormholes and other certain objects.
 - [**EVE Volumetrics V5**](https://www.patreon.com/blackrack/posts/true-volumetric-139879553): For volumetric clouds and other effects like shooting stars.
 - [**EVE Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements): For non-volumetric clouds.
+- [**Firefly**](https://github.com/M1rageDev/Firefly): For reentry effects.
 
 # Mod Settings
 
